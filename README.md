@@ -1,3 +1,3 @@
 <h2 style="text-align:center">Canteen Food Ordering and Management System Project</h2><br/><br/>
- 
- ![canteen food ordering and management system project](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/patricia/24.webp) <br/><br/>The canteen food ordering and management system project frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/patricia-canteen-food-ordering-and-management-system-project" target="_blank">click here.</a>
+  
+  ![canteen food ordering and management system project](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/patricia/24.webp) <br/><br/>The canteen food ordering and management system project frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://onboarding.enatega.com/register/?utm_source=github&utm_medium=repo&utm_campaign=patricia-canteen-food-ordering-and-management-system-project" target="_blank">click here.</a>
